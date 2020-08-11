@@ -27,7 +27,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 1,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,38,1,5,31.3875
 0,3,Mr. Farred Chehab Emir,male,26,0,0,7.225
 0,1,Mr. Charles Alexander Fortune,male,19,3,2,263
-1,3,Miss. Ellen O'Dwyer,female,24,0,0,7.8792
+1,3,Miss. Ellen O Dwyer,female,24,0,0,7.8792
 0,3,Mr. Lalio Todoroff,male,23,0,0,7.8958
 0,1,Don. Manuel E Uruchurtu,male,40,0,0,27.7208
 1,1,Mrs. William Augustus (Marie Eugenie) Spencer,female,48,1,0,146.5208
@@ -45,7 +45,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 1,3,Miss. Margaret Delia Devaney,female,19,0,0,7.8792
 0,3,Mr. William John Rogers,male,30,0,0,8.05
 0,3,Mr. Denis Lennon,male,20,1,0,15.5
-1,3,Miss. Bridget O'Driscoll,female,27,0,0,7.75
+1,3,Miss. Bridget O Driscoll,female,27,0,0,7.75
 0,3,Mr. Youssef Samaan,male,16,2,0,21.6792
 0,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi,female,18,1,0,17.8
 0,3,Master. Juha Niilo Panula,male,7,4,1,39.6875
@@ -184,7 +184,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 1,2,Master. Richard F Becker,male,1,2,1,39
 1,3,Miss. Luise Gretchen Kink-Heilmann,female,4,0,2,22.025
 0,1,Mr. Hugh Roscoe Rood,male,39,0,0,50
-1,3,Mrs. Thomas (Johanna Godfrey) O'Brien,female,26,1,0,15.5
+1,3,Mrs. Thomas (Johanna Godfrey) O Brien,female,26,1,0,15.5
 1,1,Mr. Charles Hallace Romaine,male,45,0,0,26.55
 0,3,Mr. John Bourke,male,40,1,1,15.5
 0,3,Mr. Stjepan Turcin,male,36,0,0,7.8958
@@ -361,7 +361,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,2,Mr. Sebastiano del Carlo,male,29,1,0,27.7208
 0,3,Mrs. (Catherine David) Barbara,female,45,0,1,14.4542
 0,3,Mr. Adola Asim,male,35,0,0,7.05
-0,3,Mr. Thomas O'Brien,male,27,1,0,15.5
+0,3,Mr. Thomas O Brien,male,27,1,0,15.5
 0,3,Mr. Mauritz Nils Martin Adahl,male,30,0,0,7.25
 1,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren,female,60,1,0,75.25
 1,3,Mrs. (Mantoura Boulos) Moussa,female,35,0,0,7.2292
@@ -455,7 +455,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,1,Mr. Francis Davis Millet,male,65,0,0,26.55
 1,1,Mrs. Frederick R (Marion) Kenyon,female,41,1,0,51.8625
 1,2,Miss. Ellen Toomey,female,50,0,0,10.5
-0,3,Mr. Maurice O'Connor,male,17,0,0,7.75
+0,3,Mr. Maurice O Connor,male,17,0,0,7.75
 1,1,Mr. Harry Anderson,male,48,0,0,26.55
 0,3,Mr. William Morley,male,34,0,0,8.05
 0,1,Mr. Arthur H Gee,male,47,0,0,38.5
@@ -498,7 +498,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,3,Mr. Olof Svensson,male,24,0,0,7.7958
 0,3,Mr. Petar Calic,male,17,0,0,8.6625
 0,3,Miss. Mary Canavan,female,21,0,0,7.75
-0,3,Miss. Bridget Mary O'Sullivan,female,21,0,0,7.6292
+0,3,Miss. Bridget Mary O Sullivan,female,21,0,0,7.6292
 0,3,Miss. Kristina Sofia Laitinen,female,37,0,0,9.5875
 1,1,Miss. Roberta Maioni,female,16,0,0,86.5
 0,1,Mr. Victor de Satode Penasco y Castellana,male,18,1,0,108.9
@@ -548,7 +548,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 1,2,Master. John Morgan Jr Davies,male,8,1,1,36.75
 1,1,Mr. John Borland Jr Thayer,male,17,0,2,110.8833
 0,2,Mr. Percival James R Sharp,male,27,0,0,26
-0,3,Mr. Timothy O'Brien,male,21,0,0,7.8292
+0,3,Mr. Timothy O Brien,male,21,0,0,7.8292
 1,3,Mr. Fahim Leeni,male,22,0,0,7.225
 1,3,Miss. Velin Ohman,female,22,0,0,7.775
 0,1,Mr. George Wright,male,62,0,0,26.55
@@ -625,7 +625,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,2,Rev. Charles Leonard Kirkland,male,57,0,0,12.35
 1,1,Miss. Gretchen Fiske Longley,female,21,0,0,77.9583
 0,3,Mr. Guentcho Bostandyeff,male,26,0,0,7.8958
-0,3,Mr. Patrick D O'Connell,male,18,0,0,7.7333
+0,3,Mr. Patrick D O Connell,male,18,0,0,7.7333
 1,1,Mr. Algernon Henry Wilson Barkworth,male,80,0,0,30
 0,3,Mr. Johan Svensson Lundahl,male,51,0,0,7.0542
 1,1,Dr. Max Stahelin-Maeglin,male,32,0,0,30.5
@@ -649,7 +649,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,3,Mr. Mito Mitkoff,male,23,0,0,7.8958
 1,2,Miss. Elsie Doling,female,18,0,1,23
 0,3,Mr. Johannes Halvorsen Kalvik,male,21,0,0,8.4333
-1,3,Miss. Hanora O'Leary,female,16,0,0,7.8292
+1,3,Miss. Hanora O Leary,female,16,0,0,7.8292
 0,3,Miss. Hanora Hegarty,female,18,0,0,6.75
 0,2,Mr. Leonard Mark Hickman,male,24,2,0,73.5
 0,3,Mr. Alexander Radeff,male,27,0,0,7.8958
