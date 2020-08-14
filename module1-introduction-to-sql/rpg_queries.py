@@ -98,3 +98,7 @@ if __name__ == "__main__":
     print(f"Average number of items: {avg_items}")
     # Q7
     print(f"Average number of weapons: {avg_weapons}")
+
+
+# [3, 3, 2, 4, 4, 1, 5, 3, 4, 4, 3, 3, 4, 4, 4, 1, 5, 5, 3, 1]
+# [0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
